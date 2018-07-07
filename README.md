@@ -2,18 +2,25 @@
 Deep Learning LSTM to predict sunspot activity
 
 **Notebooks:**
-<br>LSTM-Sunpots-tn_b.ipynb: This notebook models the monthly sunspot data</br>
-<br>LSTM-Sunpots-tn_c.ipynb: This notebook models the daily sunspot data</br>
-<br>LSTM-Sunpots-tn_f.ipynb: This notebook models the monthly sunspot data</br>
-<br>LSTM-Sunpots-tn_fft.ipynb: This notebook models frequency of sunspot activity</br>
+LSTM-Sunpots-tn_b.ipynb: This notebook models the monthly sunspot data
+
+LSTM-Sunpots-tn_c.ipynb: This notebook models the daily sunspot data
+
+LSTM-Sunpots-tn_f.ipynb: This notebook models the monthly sunspot data
+
+LSTM-Sunpots-tn_fft.ipynb: This notebook models frequency of sunspot activity
 
 **Files:**
-<br>sunspot_model_b: model saved from notebook “b”</br>
-<br>sunspot_model_c: model saved from notebook “c”</br>
+
+sunspot_model_b: model saved from notebook “b”
+
+>sunspot_model_c: model saved from notebook “c”
 
 **Data:**
-<br>SIDC-SUNSPOTS_D.csv: Daily sunspot data from Quandl</br>
-<br>SIDC-SUNSPOTS_13.csv: Monthly sunspot data from Quandl</br>
+
+SIDC-SUNSPOTS_D.csv: Daily sunspot data from Quandl
+
+SIDC-SUNSPOTS_13.csv: Monthly sunspot data from Quandl
 
 **Reference URLs:**
 
