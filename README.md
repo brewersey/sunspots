@@ -2,6 +2,7 @@
 Deep Learning LSTM to predict sunspot activity
 
 **Notebooks:**
+
 LSTM-Sunpots-tn_b.ipynb: This notebook models the monthly sunspot data
 
 LSTM-Sunpots-tn_c.ipynb: This notebook models the daily sunspot data
