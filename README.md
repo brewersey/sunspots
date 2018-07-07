@@ -15,7 +15,7 @@ LSTM-Sunpots-tn_fft.ipynb: This notebook models frequency of sunspot activity
 
 sunspot_model_b: model saved from notebook “b”
 
->sunspot_model_c: model saved from notebook “c”
+sunspot_model_c: model saved from notebook “c”
 
 **Data:**
 
