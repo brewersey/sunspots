@@ -1,5 +1,5 @@
 # sunspots
-Deep Learning LSTM to predict sunspot activity
+Simple Deep Learning LSTM to predict sunspot activity
 
 **Notebooks:**
 
