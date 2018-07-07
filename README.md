@@ -2,7 +2,7 @@
 Deep Learning LSTM to predict sunspot activity
 
 
-Reference URL:
+Reference URLs:
 
 https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
 
